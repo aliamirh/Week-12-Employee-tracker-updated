@@ -4,16 +4,21 @@ This site allows you to create projects, divisions, and employees. You can creat
 
 ## Installation
 
-Clone/Download https://github.com/aliamirh/Week-12-Employee-tracker-updated
-download/clone Mario's Products repo
-Run "bundle install"
-Run 'rake db:create'
-Run 'rake db:migrate'
-Run 'rake db:test:prepare'
-Run 'rake db:seed'
-Run "rails s" to start server
-Click sign up and follow log in instructions
-follow website links to create, update, or delete Products and reviews
+-Clone/Download https://github.com/aliamirh/Week-12-Employee-tracker-updated
+
+-Run "bundle install"
+
+-Run 'rake db:create'
+
+-Run 'rake db:migrate'
+
+-Run 'rake db:test:prepare'
+
+-Run 'rake db:seed'
+
+-Run "rails s" to start server
+
+-Follow website links to create, update, or delete Products and reviews
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
